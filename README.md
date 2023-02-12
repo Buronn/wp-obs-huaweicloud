@@ -1,4 +1,4 @@
-# Wordpress with S3FS and Media-Sync Docker Image
+# Wordpress with S3FS for Object Storage Services of Huawei Cloud and Media-Sync Docker Image
 This repository contains a Dockerfile that builds a Wordpress image with S3FS installed. The S3FS allows you to mount Huawei Cloud buckets in the /var/www/html/wp-content/uploads directory, providing you with a seamless integration between your Wordpress site and your Huawei Cloud storage.\
 Additionally, the image also includes the Media-Sync plugin, allowing you to synchronize the data in your Huawei Cloud bucket with your Wordpress Media Files.
 

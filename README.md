@@ -16,7 +16,7 @@ The following environment variables are used in the `docker-compose.yml` file:
 - **BUCKET**: The name of your Huawei Cloud bucket
 By updating these values in the docker-compose.yml file and creating an .env file, you'll be able to use this image with your own Huawei Cloud setup. 
 # Starting the Image
-Once you have updated the environment variables and created the .env file, you can start the image using the following command:
+You can start the image using the following commands:
 ```ruby
 git clone https://github.com/Buronn/wp-obs-huaweicloud.git
 cd wp-obs-huaweicloud
